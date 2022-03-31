@@ -1,4 +1,4 @@
-# JavaProgramming Projects
+# NetworkProgramming Projects
 
 1. Simple Client-Server Chatting Program with Socket.
 2. LinkState / Distant vector algorithm implementation
